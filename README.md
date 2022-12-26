@@ -2,5 +2,6 @@
 
 Download the Microsoft sample SQL server database file
 "Northwind.bak" - attached above
-Then, dun the file 
+
+Then, run the file "Create database Northwind_DW" in SQL
 
